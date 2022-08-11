@@ -1,1 +1,22 @@
 
+AI Based Chatbot for College Related Queries were motivated by the need 
+of traditional websites to provide a chat facility, where a bot is required to 
+be able to chat with user and solve queries. 
+When live agent can handle only two to three operations at a time, chatbots 
+can operate without an upper limit which really scales up the operations. 
+Also, if any school or business is receiving lots of queries, having a chatbot 
+on a website takes off the load also improves the responses rate compared 
+support team.
+Chatbot can automate the repetitive tasks. There can be some scenarios 
+where a business or school receives same queries in a day for many times 
+and support team must respond to each query repetitively. The most 
+important advantage of having a chatbot is that it is available 24/7. No 
+matter what time it is, a user can get a query solved.
+On current scenario, Chatbots will be handling 85% of the customer service 
+interactions by the year 2020. Also, 80% of businesses are expected to have 
+some sort of chatbot automation by 2020.
+In this project we used Agile SDLC model which shows the combination 
+of iterative and incremental process.
+The project was working on HTML, CSS, JavaScript as main frontend 
+technology and deep learning, python, tensor flow as backend technology. 
+Flask is used as web technology.
